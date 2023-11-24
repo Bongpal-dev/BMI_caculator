@@ -50,6 +50,7 @@
 
     <TextView
         android:id="@+id/btn_back"
+        android:clickable="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
@@ -77,7 +78,7 @@
         android:id="@+id/tv_resValue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="30dp"
+        android:layout_marginStart="20dp"
         android:fontFamily="@font/d2coding"
         android:text="25.5126"
         android:textColor="#E0E0E0"
